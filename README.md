@@ -9,7 +9,7 @@
 
 ![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
 
-<img src="https://static.wixstatic.com/media/191815_5d9d3ff1ad894e96a2f0a86681563555~mv2.gif" width="350px" align="right">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc0N3o0cjU1dGRrN3BsOHI3OXRsbXB5ejlqcmVmMTFuZTI2YmJodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="350px" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MadhuraTatte&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
 
@@ -35,13 +35,13 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="reactjs" width="40" height="40"/> </a> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="reactjs" width="40" height="40"/> </a> </p>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSmZzT7QIg725Q19EwtHCiJZ2f9mNCWeKDgrxjPxL--A&s" alt="expressjs" width="40" height="40"/> </a>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSmZzT7QIg725Q19EwtHCiJZ2f9mNCWeKDgrxjPxL--A&s" alt="expressjs" width="40" height="40"/> </a> </p>
 
 <div>
 <h3 align="center">GitHub Stats</h3>
