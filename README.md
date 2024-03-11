@@ -15,7 +15,18 @@
 
 <!-- - 👨‍💻 All of my projects are available at [Portfolio](https://madhuratatte.github.io/) -->
 
-- 📫 How to reach me shivanshchourasia84@gmail.com
+
+🔭 I’m a Full Stack Web Developer
+
+🌱 I’m currently learning React.JS
+
+💬 Ask me about Node.JS , ReactJs, MongoDB, Express.Js, HTML, CSS, JavaScript & DSA
+
+📫 How to reach me shivanshchourasia84@gmail.com
+
+👨‍💻 All my projects are available at my Git_Hub
+
+⚡ Fun fact World is Ending soon, So better commit your code before you....
 
 <!-- - 📄 Know about my experiences [Resumé](https://drive.google.com/file/d/1-KTfPu19XzjYrL2A4Bp50yyXGFHHi_SC/view) -->
 
