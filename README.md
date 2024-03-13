@@ -24,7 +24,7 @@
 
 📫 How to reach me shivanshchourasia84@gmail.com
 
-🕴 [Portfolio](https://shivansh84ya.github.io/)
+🕴 my polfolio (https://shivansh84ya.github.io/)
 
 🗞️ my resume https://drive.google.com/file/d/1tUU5v7UFOypToKy99fd42YZxI43Dojxj/view?usp=sharing
 
