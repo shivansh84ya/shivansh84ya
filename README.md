@@ -24,11 +24,11 @@
 
 📫 How to reach me shivanshchourasia84@gmail.com
 
-🕴 my polfolio (https://shivansh84ya.github.io/)
+🕴 my polfolio https://shivansh84ya.github.io/
 
 🗞️ my resume https://drive.google.com/file/d/1tUU5v7UFOypToKy99fd42YZxI43Dojxj/view?usp=sharing
 
-👨‍💻 All my projects are available at my Git_Hub
+👨‍💻 All my projects are available at my [GitHub](https://github.com/shivansh84ya?tab=repositories) 
 
 ⚡ Fun fact World is Ending soon, So better commit your code before you....
 
