@@ -18,13 +18,11 @@
 
 🔭 I’m a Full Stack Web Developer
 
-🌱 I’m currently learning React.JS
-
-💬 Ask me about Node.JS , ReactJs, MongoDB, Express.Js, HTML, CSS, JavaScript & DSA
+💬 Ask me about Node.JS, ReactJs, MongoDB, Express.Js, HTML, CSS, JavaScript & DSA
 
 📫 How to reach me shivanshchourasia84@gmail.com
 
-🕴 my polfolio https://shivansh84ya.github.io/
+🕴 my polfolio https://shivansh84ya.github.io
 
 🗞️ my resume https://drive.google.com/file/d/1tUU5v7UFOypToKy99fd42YZxI43Dojxj/view?usp=sharing
 
