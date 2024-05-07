@@ -65,6 +65,24 @@
 ![Netlify](https://skillicons.dev/icons?i=netlify)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 
+### GitHub Analytics
+<p align="center">
+  <a href="https://github.com/shivansh84ya">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shivansh84ya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shivansh84ya&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/shivansh84ya">
+    <img src="https://github-stats-alpha.vercel.app/api/?username=shivansh84ya&cc=333333&tc=ffffff&ic=4B8BDA" alt="Stats"/>
+  </a>
+</p>
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivansh84ya&theme=algolia" alt="Profile Summary Card"/>
+</p>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=shivansh84ya&theme=tokyonight" alt="Github Trophies"/>
+</p>
 
 <div>
 <h3 align="center">GitHub Stats</h3>
