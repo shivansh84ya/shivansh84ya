@@ -84,13 +84,14 @@
     <img src="https://github-profile-trophy.vercel.app/?username=shivansh84ya&theme=tokyonight" alt="Github Trophies"/>
 </p>
 
+
 <div>
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
+<!-- <h3 align="center">GitHub Stats</h3> -->
+<!-- <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivansh84ya&theme=github_dark">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivansh84ya&theme=github_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivansh84ya&theme=github_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivansh84ya&theme=github_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivansh84ya&theme=github_dark&utcOffset=8">
-</p>
+</p> -->
 </div>
