@@ -65,7 +65,7 @@
 ![Netlify](https://skillicons.dev/icons?i=netlify)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 
-### GitHub Analytics
+### 📈 GitHub Analytics
 <p align="center">
   <a href="https://github.com/shivansh84ya">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shivansh84ya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
