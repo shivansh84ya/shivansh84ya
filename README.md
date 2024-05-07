@@ -40,14 +40,16 @@
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![cpp](https://skillicons.dev/icons?i=cpp)
 
-#### Frameworks, Platforms, Tools and Libraries
+#### Frameworks, Databases, Tools and Libraries
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![ExpressJs](https://skillicons.dev/icons?i=express)
 ![React](https://skillicons.dev/icons?i=react)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Vite](https://skillicons.dev/icons?i=vite)
 ![Material UI](https://skillicons.dev/icons?i=materialui)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Postman](https://skillicons.dev/icons?i=postman)
 
 #### Version Control
 ![Git](https://skillicons.dev/icons?i=git)
@@ -57,11 +59,6 @@
 ![Netlify](https://skillicons.dev/icons?i=netlify)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 
-#### Databases
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
-#### Others
-![Postman](https://skillicons.dev/icons?i=postman)
 
 <div>
 <h3 align="center">GitHub Stats</h3>
