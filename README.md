@@ -15,19 +15,11 @@
 
 <!-- - 👨‍💻 All of my projects are available at [Portfolio](https://madhuratatte.github.io/) -->
 
-
 🔭 I’m a Full Stack Web Developer
-
 💬 Ask me about Node.JS, ReactJs, MongoDB, Express.Js, HTML, CSS, JavaScript & DSA
-
 📫 How to reach me shivanshchourasia84@gmail.com
-
 🕴 my polfolio https://shivansh84ya.github.io
-
-🗞️ my resume https://drive.google.com/file/d/1tUU5v7UFOypToKy99fd42YZxI43Dojxj/view?usp=sharing
-
 👨‍💻 All my projects are available at my [GitHub](https://github.com/shivansh84ya?tab=repositories) 
-
 ⚡ Fun fact World is Ending soon, So better commit your code before you....
 
 <!-- - 📄 Know about my experiences [Resumé](https://drive.google.com/file/d/1-KTfPu19XzjYrL2A4Bp50yyXGFHHi_SC/view) -->
@@ -43,12 +35,10 @@
 ### ⚙️ Tech Stack
 #### Programming Languages
 
-![C](https://skillicons.dev/icons?i=c)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
+![cpp](https://skillicons.dev/icons?i=cpp)
 
 #### Frameworks, Platforms and Libraries
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
@@ -56,8 +46,6 @@
 ![ExpressJs](https://skillicons.dev/icons?i=express)
 ![React](https://skillicons.dev/icons?i=react)
 ![Vite](https://skillicons.dev/icons?i=vite)
-![Next JS](https://skillicons.dev/icons?i=nextjs)
-![Flask](https://skillicons.dev/icons?i=flask)
 ![Material UI](https://skillicons.dev/icons?i=materialui)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
@@ -71,19 +59,12 @@
 #### Hosting
 ![Netlify](https://skillicons.dev/icons?i=netlify)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
-![Heroku](https://skillicons.dev/icons?i=heroku)
 
 #### Databases
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Firebase](https://skillicons.dev/icons?i=firebase)
 
 #### Others
-
 ![Postman](https://skillicons.dev/icons?i=postman)
-![GraphQl](https://skillicons.dev/icons?i=graphql)
-![Bash](https://skillicons.dev/icons?i=bash)
-![AWS](https://skillicons.dev/icons?i=aws)
 
 <div>
 <h3 align="center">GitHub Stats</h3>
