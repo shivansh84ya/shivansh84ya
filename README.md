@@ -56,11 +56,12 @@
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Postman](https://skillicons.dev/icons?i=postman)
 
-#### Version Control
+#### Version Control and Editors
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
 
-#### Hosting
+#### Hosting 
 ![Netlify](https://skillicons.dev/icons?i=netlify)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 
