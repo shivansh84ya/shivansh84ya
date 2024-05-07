@@ -40,7 +40,7 @@
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![cpp](https://skillicons.dev/icons?i=cpp)
 
-#### Frameworks, Platforms and Libraries
+#### Frameworks, Platforms, Tools and Libraries
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![ExpressJs](https://skillicons.dev/icons?i=express)
@@ -48,9 +48,6 @@
 ![Vite](https://skillicons.dev/icons?i=vite)
 ![Material UI](https://skillicons.dev/icons?i=materialui)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
-#### Favorite IDE/Editors
-![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
 
 #### Version Control
 ![Git](https://skillicons.dev/icons?i=git)
