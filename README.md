@@ -40,21 +40,50 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="reactjs" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSmZzT7QIg725Q19EwtHCiJZ2f9mNCWeKDgrxjPxL--A&s" alt="expressjs" width="40" height="40"/> </a> 
+### ⚙️ Tech Stack
+#### Programming Languages
+
+![C](https://skillicons.dev/icons?i=c)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+
+#### Frameworks, Platforms and Libraries
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![ExpressJs](https://skillicons.dev/icons?i=express)
+![React](https://skillicons.dev/icons?i=react)
+![Vite](https://skillicons.dev/icons?i=vite)
+![Next JS](https://skillicons.dev/icons?i=nextjs)
+![Flask](https://skillicons.dev/icons?i=flask)
+![Material UI](https://skillicons.dev/icons?i=materialui)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+#### Favorite IDE/Editors
+![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
+
+#### Version Control
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+
+#### Hosting
+![Netlify](https://skillicons.dev/icons?i=netlify)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Heroku](https://skillicons.dev/icons?i=heroku)
+
+#### Databases
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+
+#### Others
+
+![Postman](https://skillicons.dev/icons?i=postman)
+![GraphQl](https://skillicons.dev/icons?i=graphql)
+![Bash](https://skillicons.dev/icons?i=bash)
+![AWS](https://skillicons.dev/icons?i=aws)
 
 <div>
 <h3 align="center">GitHub Stats</h3>
