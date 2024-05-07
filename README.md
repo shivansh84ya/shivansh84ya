@@ -15,12 +15,12 @@
 
 <!-- - 👨‍💻 All of my projects are available at [Portfolio](https://madhuratatte.github.io/) -->
 
-🔭 I’m a Full Stack Web Developer
-💬 Ask me about Node.JS, ReactJs, MongoDB, Express.Js, HTML, CSS, JavaScript & DSA
-📫 How to reach me shivanshchourasia84@gmail.com
-🕴 my polfolio https://shivansh84ya.github.io
-👨‍💻 All my projects are available at my [GitHub](https://github.com/shivansh84ya?tab=repositories) 
-⚡ Fun fact World is Ending soon, So better commit your code before you....
+🔭 I’m a Full Stack Web Developer \n
+💬 Ask me about Node.JS, ReactJs, MongoDB, Express.Js, HTML, CSS, JavaScript & DSA \n
+📫 How to reach me shivanshchourasia84@gmail.com \n
+🕴 my polfolio https://shivansh84ya.github.io \n
+👨‍💻 All my projects are available at my [GitHub](https://github.com/shivansh84ya?tab=repositories)  \n
+⚡ Fun fact World is Ending soon, So better commit your code before you.... \n
 
 <!-- - 📄 Know about my experiences [Resumé](https://drive.google.com/file/d/1-KTfPu19XzjYrL2A4Bp50yyXGFHHi_SC/view) -->
 
