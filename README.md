@@ -7,7 +7,6 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Fellow+%3C%2FDevelopers%3E;if(brain+!%3D+empty)+%7B++keepCoding()++%7D+;else+%7B++orderCoffee()++%7D)](https://git.io/typing-svg) -->
 </div>
 
-![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc0N3o0cjU1dGRrN3BsOHI3OXRsbXB5ejlqcmVmMTFuZTI2YmJodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="350px" align="right">
 
