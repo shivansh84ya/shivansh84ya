@@ -1,4 +1,4 @@
-![image](https://github.com/shivansh84ya/shivansh84ya/assets/113468850/f4f11059-d264-4c44-bba9-4125e76ea2a5)<h1 align="center">Hi 👋, I'm Shivansh Chourasia</h1>
+<h1 align="center">Hi 👋, I'm Shivansh Chourasia</h1>
 
 <h3 align="center">Passionate Full Stack Web Developer</h3>
 
