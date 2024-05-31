@@ -48,7 +48,7 @@
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Vite](https://skillicons.dev/icons?i=vite)
 ![Material UI](https://skillicons.dev/icons?i=materialui)
-![Tailwind](https://skillicons.dev/icons?i=tailwind]
+![Tailwind](https://skillicons.dev/icons?i=tailwind) 
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Postman](https://skillicons.dev/icons?i=postman)
 
