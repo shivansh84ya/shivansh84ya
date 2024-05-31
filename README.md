@@ -17,7 +17,7 @@
 
 🔭 I’m a Full Stack Web Developer
 
-💬 Ask me about Node.JS, ReactJs, MongoDB, Express.Js, HTML, CSS, JavaScript & DSA
+💬 Ask me about Node.JS, ReactJs, MongoDB, Express.Js, HTML, CSS, JavaScript & DSA. 
 
 📫 How to reach me shivanshchourasia84@gmail.com
 
@@ -41,14 +41,15 @@
 ![cpp](https://skillicons.dev/icons?i=cpp)
 
 #### Frameworks, Databases, Tools and Libraries
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![ExpressJs](https://skillicons.dev/icons?i=express)
 ![React](https://skillicons.dev/icons?i=react)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Vite](https://skillicons.dev/icons?i=vite)
 ![Material UI](https://skillicons.dev/icons?i=materialui)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Tailwind](https://skillicons.dev/icons?i=tailwind]
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Postman](https://skillicons.dev/icons?i=postman)
 
 #### Version Control and Editors
