@@ -84,9 +84,9 @@
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivansh84ya&theme=algolia" alt="Profile Summary Card"/>
 </p>
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=shivansh84ya&theme=tokyonight" alt="Github Trophies"/>
-</p>
+</p> -->
 
 
 <div>
