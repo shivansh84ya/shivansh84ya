@@ -71,6 +71,14 @@
 
 ### 📈 GitHub Analytics
 <p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=shivansh84ya&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh84ya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=shivansh84ya&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/pooranjoyb"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+</p>
+<!---<p align="center">
   <a href="https://github.com/shivansh84ya">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shivansh84ya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shivansh84ya&layout=compact&langs_count=8&theme=algolia"/>
@@ -84,6 +92,7 @@
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivansh84ya&theme=algolia" alt="Profile Summary Card"/>
 </p>
+-->
 <!-- <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=shivansh84ya&theme=tokyonight" alt="Github Trophies"/>
 </p> -->
