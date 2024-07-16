@@ -20,17 +20,20 @@
 
 <!-- - 👨‍💻 All of my projects are available at [Portfolio](https://madhuratatte.github.io/) -->
 
-🔭 I’m a Full Stack Web Developer
+🔭 I’m a **Full Stack Web Developer**
 
 💬 Ask me about Node.JS, ReactJs, MongoDB, Express.Js, HTML, CSS, JavaScript & DSA. 
 
-📫 How to reach me shivanshchourasia84@gmail.com
+📫 How to reach me **shivanshchourasia84@gmail.com**
 
-🕴 my polfolio https://shivansh84ya.github.io 
+🕴 My **polfolio** https://shivansh84ya.github.io 
 
 👨‍💻 All my projects are available at my [GitHub](https://github.com/shivansh84ya?tab=repositories)  
 
-⚡ Fun fact World is Ending soon, so better commit your code before you...
+⚡ **Fun fact :**
+
+ "World is Ending soon, so better commit your code before you..."
+
 
 <!-- - 📄 Know about my experiences [Resumé](https://drive.google.com/file/d/1-KTfPu19XzjYrL2A4Bp50yyXGFHHi_SC/view) -->
 
