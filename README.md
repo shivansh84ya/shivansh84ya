@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Shivansh Chourasia </h1>
+<h1 align="center">Hi👋, I'm Shivansh Chourasia</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hello%20World&fontSize=90"/>
