@@ -124,8 +124,6 @@
 <!-- <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=shivansh84ya&theme=tokyonight" alt="Github Trophies"/>
 </p> -->
-
-
 <div>
 <!-- <h3 align="center">GitHub Stats</h3> -->
 <!-- <p align="center">
