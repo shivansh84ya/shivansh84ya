@@ -13,7 +13,6 @@
 
 <!--![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)--->
 
-
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc0N3o0cjU1dGRrN3BsOHI3OXRsbXB5ejlqcmVmMTFuZTI2YmJodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="350px" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MadhuraTatte&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
@@ -38,9 +37,7 @@
 
 <!-- - ⚡ Fun fact Can produce best out of waste -->
 
-
 ### ⚙️ Tech Stack
-
 
 <!--![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
@@ -64,7 +61,6 @@
 ![Netlify](https://skillicons.dev/icons?i=netlify)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 -->
-
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
