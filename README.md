@@ -18,7 +18,7 @@
 
 🔭 I’m a **Full Stack Web Developer**
 
-💬 Ask me about Node.JS, ReactJs, MongoDB, Express.Js, HTML, CSS, JavaScript & DSA. 
+💬 Ask me about JavaScript, ReactJs, Node.Js, MongoDB, Express.Js & DSA. 
 
 📫 How to reach me **shivanshchourasia84@gmail.com**
 
