@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hello%20World&fontSize=90"/>
 </p>
-
 <!-- <h3 align="center">Passionate Full Stack Web Developer</h3>-->
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=blue &width=470&lines=Hello+Fellow+%3C%2FDevelopers%3E;if(brain!%3Dempty)+keepCoding()+;else++orderCoffee()+" alt="Typing SVG" /></a> 
