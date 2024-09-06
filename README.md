@@ -20,6 +20,8 @@
 
 💬 Ask me about JavaScript, ReactJs, Node.Js, MongoDB, Express.Js & DSA. 
 
+👯 I’m looking to collaborate on open-source projects
+
 📫 How to reach me **shivanshchourasia84@gmail.com**
 
 🕴 My **polfolio** https://shivansh84ya.github.io 
