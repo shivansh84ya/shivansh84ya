@@ -22,6 +22,8 @@
 
 👯 I’m looking to collaborate on open-source projects
 
+🌟 Contributor at GirlScript Summer of Code 2024
+
 📫 How to reach me **shivanshchourasia84@gmail.com**
 
 🕴 My **polfolio** https://shivansh84ya.github.io 
