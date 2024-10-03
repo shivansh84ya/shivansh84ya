@@ -18,7 +18,7 @@
 
 🔭 I’m a **Full Stack Web Developer**
 
-🌟 Contributor at GirlScript Summer of Code 2024
+🌟 Contributor at GSSoC'2024
 
 💬 Ask me about JavaScript, ReactJs, Node.Js, MongoDB, Express.Js & DSA. 
 
