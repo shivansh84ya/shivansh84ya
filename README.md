@@ -15,7 +15,6 @@
 
 <!-- - 👨‍💻 All of my projects are available at [Portfolio](https://madhuratatte.github.io/) -->
 
-
 🔭 I’m a **Full Stack Web Developer**
 
 🌟 Contributor at GSSoC'2024
