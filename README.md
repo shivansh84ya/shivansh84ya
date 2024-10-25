@@ -18,7 +18,7 @@
 
 🔭 I’m a **Full Stack Web Developer**
 
-🌟 Contributor at GSSoC'2024
+🌟 Contributor at GSSoC'24
 
 💬 Ask me about JavaScript, ReactJs, Node.Js, MongoDB, Express.Js & DSA. 
 
