@@ -25,7 +25,7 @@
 
 📫 How to reach me **shivanshchourasia84@gmail.com**
 
-🕴 My **polfolio** https://shivansh84ya.github.io 
+🕴 My **potfolio** https://shivansh84ya.github.io 
 
 👨‍💻 All my projects are available at my [GitHub](https://github.com/shivansh84ya?tab=repositories)  
 
