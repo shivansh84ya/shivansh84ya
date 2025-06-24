@@ -29,7 +29,7 @@
 
 👨‍💻 All my projects are available at my [GitHub](https://github.com/shivansh84ya?tab=repositories)  
 
-⚡ **Fun fact:** World is Ending soon, so better commit your code before you !!!
+⚡ **Fun fact:** World is Ending soon, so better commit your code before you !
 
 <!-- - 📄 Know about my experiences [Resumé](https://drive.google.com/file/d/1-KTfPu19XzjYrL2A4Bp50yyXGFHHi_SC/view) -->
 
