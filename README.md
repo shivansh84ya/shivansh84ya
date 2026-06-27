@@ -98,7 +98,7 @@ const shivansh: Developer = {
       <br/><br/>
       <sub>Curriculum & docs fixes, issue triage, and small content corrections in the learning platform.</sub>
       <br/><br/>
-      <a href="#"><b>View PRs →</b></a>
+      <!-- <a href="#"><b>View PRs →</b></a> -->
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/mozilla/pdf.js">
@@ -107,7 +107,7 @@ const shivansh: Developer = {
       <br/><br/>
       <sub>Reported rendering issues and contributed fixes/docs to Mozilla's in-browser PDF renderer.</sub>
       <br/><br/>
-      <a href="#"><b>View PRs →</b></a>
+      <!-- <a href="#"><b>View PRs →</b></a> -->
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/shivansh84ya">
@@ -116,7 +116,7 @@ const shivansh: Developer = {
       <br/><br/>
       <sub>Mentored open-source program — merged feature PRs and bug fixes across community repos.</sub>
       <br/><br/>
-      <a href="#"><b>View PRs →</b></a>
+      <!-- <a href="#"><b>View PRs →</b></a> -->
     </td>
   </tr>
 </table>
