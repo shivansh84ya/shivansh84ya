@@ -1,6 +1,6 @@
 <!-- ============ ANIMATED HEADER ============ -->
 <a href="https://github.com/shivansh84ya">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,40:2E75B6,100:38B2AC&height=220&section=header&text=Shivansh%20Chourasia&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%7C%20Software%20Developer%20Engineer%20%7C%20Full%20Stack%20Architect%20%7C&descSize=20&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,40:2E75B6,100:38B2AC&height=220&section=header&text=Shivansh%20Chourasia&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%7C%20Software%20Developer%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C&descSize=20&descAlignY=58" width="100%"/>
 </a>
 
 <!-- ============ TYPING SVG ============ -->
