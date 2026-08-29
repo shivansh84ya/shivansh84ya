@@ -6,7 +6,7 @@
 <!-- ============ TYPING SVG ============ -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=38B2AC&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Shivansh+%F0%9F%91%8B;Software+Developer+Engineer+%F0%9F%92%BB;I+build+scalable+full-stack+apps+%F0%9F%9A%80;React+%7C+Node.js+%7C+TypeScript+%7C+MongoDB;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=38B2AC&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Shivansh+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;I+build+scalable+full-stack+apps+%F0%9F%9A%80;React+%7C+Node.js+%7C+TypeScript+%7C+MongoDB;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
